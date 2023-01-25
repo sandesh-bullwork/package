@@ -1,4 +1,4 @@
-class aa:
+class bullworkab:
     def a(self):
         print("package opened")
         
