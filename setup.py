@@ -1,6 +1,6 @@
 from setuptools import setup
-setup(name="package",
-version="0.0.1",
+setup(name="bullworkpackage",
+version="0.0.2",
 description="abc",
 long_description="long description",
 author="SN",
